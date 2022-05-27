@@ -1,6 +1,6 @@
 # Maintainer: Tomasz Gruszka <tompear79@gmail.com>
-_php=php74
-_phpize=phpize74
+_php=php7
+_phpize=phpize7
 pkgname="${_php}-xdebug"
 pkgver=3.1.4
 pkgrel=1
