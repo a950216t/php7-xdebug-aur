@@ -1,5 +1,5 @@
 ext_name=xdebug
-phpbase=74
+phpbase=7
 suffix=
 pkgname="php${phpbase}-${ext_name}${suffix}"
 pkgver=3.1.5
